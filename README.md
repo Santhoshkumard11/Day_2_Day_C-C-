@@ -1,2 +1,6 @@
 # Day_2_Day_C-C-
-Some basic programs related to C/C++
+
+
+Basic pattern programs in C/C++
+
+👨‍💻  By Santhosh Kumar D👨‍💻 👾(Hackey2San)👾
