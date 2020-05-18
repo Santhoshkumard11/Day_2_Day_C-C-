@@ -1,6 +1,6 @@
 # Day_2_Day_C-C-
 
-These are some programs from which you can understand some of the basics programming concepts.
+These are some programs from which you can understand the basic programming concepts.
 
 
 
