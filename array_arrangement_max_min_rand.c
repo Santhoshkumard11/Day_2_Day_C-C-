@@ -31,7 +31,7 @@ int main()
 
     for(int itr=1;itr<size-1;itr++)
     {
-        printf("%d",array[itr]);
+        printf("%d ",array[itr]);
 
     }
 
