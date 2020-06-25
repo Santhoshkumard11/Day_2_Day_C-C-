@@ -1,6 +1,6 @@
 # Day_2_Day_C-C-
 
+These are some programs from which you can understand the basic programming concepts.
 
-Basic pattern programs in C/C++
 
 👨‍💻  By Santhosh Kumar D👨‍💻 👾(Hackey2San)👾
